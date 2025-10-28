@@ -1,0 +1,8 @@
+[package]
+name = "krungkualalumpur/maid"
+version = "0.1.0"
+description = "A custom garbage collector for luau projects"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]

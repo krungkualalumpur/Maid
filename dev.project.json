@@ -7,7 +7,7 @@
 			"Packages": {
 				"$className": "Folder",
 				"$path": "Packages",
-				"InputManager": {
+				"Maid": {
 					"$path": "src"
 				}
 			}
